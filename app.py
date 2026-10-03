@@ -4,7 +4,7 @@ import streamlit as st
 # CẤU HÌNH TRANG
 # =========================
 st.set_page_config(
-    page_title="Tính lãi gửi tiết kiệm",
+    page_title="Tính lãi gửi tiết kiệm_Thái Phương Quỳnh",
     page_icon="💰",
     layout="centered"
 )
@@ -12,7 +12,7 @@ st.set_page_config(
 # =========================
 # TIÊU ĐỀ
 # =========================
-st.title("💰 Tính lãi gửi tiết kiệm")
+st.title("💰 Tính lãi gửi tiết kiệm_Thái Phương Quỳnh")
 
 st.write(
     "Nhập thông tin khoản tiền gửi để tính tiền lãi định kỳ, "
