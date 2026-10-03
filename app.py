@@ -1,5 +1,5 @@
 import streamlit as st
-st.image("st.image("logo.JPG")")
+st.image("st.image("logo.jpg").JPG")
 # =========================
 # CẤU HÌNH TRANG
 # =========================
